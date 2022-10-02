@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Muhammad Iqbal</h1>
-<h3 align="center">A passionate Website Developer from Indonesia</h3>
+<div >
+    
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miqbal20&label=Profile%20views&color=0e75b6&style=flat" alt="miqbal20" /> </p>
+<h3 align="left">Hi 👋, I'm Muhammad Iqbal - Website Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=miqbal20&label=Profile%20views&color=red&style=for-the-badge" alt="miqbal20" /> </p>
 
 - 🔭 I’m currently working on [Sabisana Developer](https://sabisana.com/)
 
