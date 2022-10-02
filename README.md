@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Muhammad Iqbal</h1>
+<h3 align="center">A passionate Website Developer from Indonesia</h3>
 
-<!--
-**Miqbal20/Miqbal20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=miqbal20&label=Profile%20views&color=0e75b6&style=flat" alt="miqbal20" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Sabisana Developer](https://sabisana.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄 Know about my experiences [https://www.linkedin.com/in/miqbal20s/](https://www.linkedin.com/in/miqbal20s/)
+
+<p><img align="right" style="width: 450px; height:auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=miqbal20&show_icons=true&locale=en&layout=compact" alt="miqbal20" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=miqbal20&show_icons=true&locale=en" alt="miqbal20" /></p>
+
+
+
