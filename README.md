@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Sabisana Developer](https://sabisana.com/)<br>📄 My Latest Work [https://www.miqbal20.my.id](https://www.miqbal20.my.id)<br>
+🔭 I’m currently working on [Sabisana Developer](https://sabisana.com/)<br>📄 See my Latest Work [https://www.miqbal20.my.id](https://www.miqbal20.my.id)<br>
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=miqbal20&icon=2&color=1)](https://visitcount.itsvg.in)
