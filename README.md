@@ -1,6 +1,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 💫 About Me:
-🌱 I’m currently learning Javascript<br>
+🌱 I’m currently learning Quality Assurance Fundamental<br>
+⚡ My Latest <a href="https://github.com/Miqbal20-QA-Documentation">QA Portfolio</a> <br>
+⚡ My Latest <a href="https://miqbal20.my.id">Website Portfolio</a> <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Miqbal20s) 
