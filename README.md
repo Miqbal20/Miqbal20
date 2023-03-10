@@ -1,6 +1,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 💫 About Me:
-🌱 I’m currently graduated from <a href="https://drive.google.com/file/d/1DfteKQYPA9R7ovmWzR3uuqoGwLXEsow4/view">Quality Assurance Bootcamp</a> at <a href="https://sanbercode.com/">Sanbercode</a><br>
+🌱 I’m currently learning javascript
 ⚡ My Latest <a href="https://github.com/Miqbal20-QA-Documentation">QA Portfolio</a> <br>
 ⚡ My Latest <a href="https://miqbal20.my.id">Website Portfolio</a> <br>
 
