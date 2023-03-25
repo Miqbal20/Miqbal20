@@ -1,6 +1,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 💫 About Me:
-🌱 I’m currently passionate about Quality Assurance Engineering<br>
+🌱 I’m currently passionate learning about testing<br>
 ⚡ My Latest <a href="https://github.com/Miqbal20-QA-Documentation">QA Portfolio</a> <br>
 ⚡ My Latest <a href="https://miqbal20.my.id">Website Portfolio</a> <br>
 
