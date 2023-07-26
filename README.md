@@ -1,8 +1,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 💫 About Me:
 🌱 I’m currently learning about Javascript<br>
-⚡ My Latest <a href="https://miqbal20.my.id">Website Portfolio</a> <br>
-⚡ My Latest <a href="https://github.com/Miqbal20-QA-Documentation">QA Portfolio</a> <br>
+⚡ <a href="https://github.com/Miqbal20-QA-Documentation">QA Portfolio</a> <br>
+⚡ <a href="https://miqbal20.my.id">Web Portfolio</a> <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Miqbal20s) 
