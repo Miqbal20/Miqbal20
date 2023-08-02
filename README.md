@@ -2,7 +2,7 @@
 # 💫 About Me:
 🌱 I’m currently learning about Javascript<br>
 ⚡ Latest <a href="https://github.com/Miqbal20-QA-Documentation">QA Portfolio</a> <br>
-⚡ Latest <a href="https://miqbal20.my.id">Web Portfolio</a> <br>
+⚡ Latest <a href="https://miqbal20.site">Web Portfolio</a> <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Miqbal20s) 
