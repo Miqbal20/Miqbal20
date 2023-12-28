@@ -1,6 +1,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 💫 About Me:
-🌱 I’m currently learning about Go<br>
+🌱 Currently, I am interested in the field of Quality Assurance, I have created several portfolios about QA in<a href="https://github.com/Miqbal20-QA-Documentation">here</a><br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Miqbal20s) 
 
